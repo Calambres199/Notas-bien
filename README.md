@@ -29,3 +29,7 @@ Teorema del Matrimonio o Hall's Marriage
 la formula $a=\frac{a}{b}$
 Tomando una funcion $f(n)$ en $o(n)$ si existe c
 siii
+- Una funcion $f(n)$ es $O(n)$ si existe $c$ tal que
+
+  $$|f(n)| menor o igual c|n|$$
+
